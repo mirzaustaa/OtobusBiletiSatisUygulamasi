@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vsidx
+
+# Build klasörleri
+bin/
+obj/
+
+# Diğer
+packages/
+*.log
